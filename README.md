@@ -49,7 +49,7 @@ A user-friendly **Streamlit web application** allows users to paste any news art
 This project demonstrates how Machine Learning and Natural Language Processing can be used to combat online misinformation by automatically identifying fake news articles. It showcases a complete end-to-end AI pipeline, making it an excellent project for academic presentations, GitHub portfolios, internships, and placement interviews.
 📸 Project Screenshots
 
-<img width="2494" height="1590" alt="image" src="https://github.com/user-attachments/assets/67b45a88-361a-42d1-a857-8f917db38c50" />
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/710ce692-bd76-4db0-8bfb-266b4cd8ee0b" />
 
-<img width="2494" height="1518" alt="image" src="https://github.com/user-attachments/assets/305f399f-996d-442c-9fdb-f91126812454" />
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/2f981643-b630-4812-9e8c-7a501e81ca69" />
 
